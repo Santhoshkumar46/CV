@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue;
+}
+hr {
+    border-style: dotted none none;
+    border-width: 2px 0 0 0;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+}
+h1{
+    color: #66bfbf;
+    letter-spacing: 3px;
+}
+
+h3 {
+    color: #66bfbf;
+}
